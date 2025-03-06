@@ -32,5 +32,5 @@ Connect to Appium Inspector:
 mvn test -Dcucumber.features=src/test/resources/features/JitsuAppTest.feature
 
 some button cannot interact by Xpath
-I cannot use wait in Appium becasue there are many locators cannot use xpath to work on it, have to use TouchAction in app.
+I cannot use wait in Appium because there are many locators cannot use xpath to work on it, have to use TouchAction in app.
 
