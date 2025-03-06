@@ -1,0 +1,10 @@
+# build folder
+/target/
+/bin/
+# File IDE
+/.idea/
+/.vscode/
+/*.iml
+# File log
+*.log
+/logs/
